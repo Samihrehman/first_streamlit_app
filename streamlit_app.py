@@ -1,4 +1,4 @@
 import streamlit
 
-streamlit.little(My Parent Healthy Diner")
+streamlit.little("My Parents Healthy Diner")
 
